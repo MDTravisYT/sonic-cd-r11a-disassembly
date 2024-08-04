@@ -226,7 +226,7 @@ v_angle_normal_buf		rs.b	1
 v_quadrant_normal_buf		rs.b	1
 v_floor_dist 			rs.b	1
 v_demo_mode 			rs.w	1
-				rs.l	1
+v_debug_speed			rs.l	1	; (ADDED)
 v_hw_version 			rs.b	1
 				rs.b	1
 v_debug_mode_enabled		rs.w	1
